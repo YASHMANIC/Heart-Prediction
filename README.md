@@ -1,4 +1,4 @@
-# End-To-End-Wine-Quality-Prediction
+# Heart-Disease-Prediction
 Workflows
 
     Update config.yaml
